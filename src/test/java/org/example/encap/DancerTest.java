@@ -25,7 +25,7 @@ class DancerTest {
 
     @Test
     void idolTest() {
-
+        
         IdolDancer jungguk
                 = new IdolDancer("BTS", HIGH, "정국");
 

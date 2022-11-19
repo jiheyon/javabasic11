@@ -6,6 +6,7 @@ public abstract class Dancer extends Object implements Danceable {
 
     String crewName; // 팀의 이름
     Grade grade; // 실력
+
     String myName; // 내 이름
 
     private double height; // 키
